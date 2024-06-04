@@ -3,7 +3,7 @@ live: https://book-shelf-suraj.vercel.app/
 
 Steps to setup Locally-
 												
-												--> glone the repository.
+			--> glone the repository.
 
                         --> install All dependencies by "npm install"
 												
